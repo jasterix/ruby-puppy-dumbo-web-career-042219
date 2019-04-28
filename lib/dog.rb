@@ -17,4 +17,6 @@ class Dog
     @@all
     puts name
   end
+  
+  
 end
